@@ -25,7 +25,7 @@ funcsigs==1.0.2
 functools32==3.2.3.post2
 future==0.16.0
 h5py==2.7.1
-html5lib==0.9999999
+html5lib==0.99999999
 idna==2.6
 imagesize==0.7.1
 ipykernel==4.6.1
