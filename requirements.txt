@@ -43,7 +43,7 @@ Markdown==2.6.9
 MarkupSafe==0.23
 marshmallow==2.14.0
 matplotlib==2.0.2
-mistune==0.7.4
+mistune==0.8.1
 mock==2.0.0
 nbconvert==5.2.1
 nbformat==4.3.0
